@@ -8,6 +8,7 @@ import java.util.Map;
  * @author dzevako
  * @since Mar 11, 2018
  */
+@FunctionalInterface
 public interface Factory<T> extends SimpleFactory<T>
 {
     /**

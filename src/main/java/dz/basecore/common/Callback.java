@@ -6,6 +6,7 @@ package dz.basecore.common;
  * @author dzevako
  * @since 02.02.21
  */
+@FunctionalInterface
 public interface Callback<T>
 {
     void onSuccess(T value);

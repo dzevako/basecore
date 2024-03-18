@@ -1,7 +1,7 @@
 package dz.basecore.common;
 
 /**
- * Интерфейс простой фабрики
+ * Простая фабрика
  *
  * @author dzevako
  * @since 13.03.2024
